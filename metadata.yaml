@@ -1,0 +1,33 @@
+_repo: Russian-Rambles_18165
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hapgood, Isabel Florence
+    alias: Hapgood, Isabel F.
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+description: ''
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Russia -- Description and travel'
+tableOfContents: Passports, police, and post-office in Russia -- The Névsky prospékt
+  -- My experience with the Russian censor -- Bargaining in Russia -- Experiences
+  -- A Russian summer resort -- A stroll in Moscow with Count Tolstóy -- Count Tolstóy
+  at home -- A Russian holy city -- A journey on the Volga -- The Russian kumýs cure
+  -- Moscow memories -- The Nízhni-Nóvgorod fair and the Volga.
+title: Russian Rambles
+url: http://www.gutenberg.org/ebooks/18165
